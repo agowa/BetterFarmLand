@@ -4,16 +4,14 @@
   "name": "BetterFarmLand",
   "version": "1.0.0",
   "mcversion": "1.6.4",
-  "description": "Wasser unter den Feldern",
+  "description": "Water under the fields",
   "credits": "Created by agowa338",
-  "logoFile": "/assets/buildcraft/logo.png",
+  "logoFile": "",
   "url": "",
   "updateUrl": "",
   "authors": [ "agowa338" ],
   "parent":"",
   "screenshots": [],
-  "dependencies": [
-     "mod_MinecraftForge"
-  ]
+  "dependencies": []
 }
 ]
